@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "rQQcVY9lta/js/dDgN7fy5R/k6PEvZYc5BycnX4+mKPpjo7FeYkP95uiwin53GLWZpb/LS0sEHu/vdKXx5bB4A==",
+  "success": true,
+  "projectFilePath": "/Users/seancruise/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj",
+  "expectedPackageFiles": [
+    "/Users/seancruise/.nuget/packages/amazon.lambda.core/2.1.0/amazon.lambda.core.2.1.0.nupkg.sha512",
+    "/Users/seancruise/.nuget/packages/amazon.lambda.serialization.systemtextjson/2.3.1/amazon.lambda.serialization.systemtextjson.2.3.1.nupkg.sha512",
+    "/Users/seancruise/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/6.0.1/microsoft.netcore.app.runtime.linux-x64.6.0.1.nupkg.sha512",
+    "/Users/seancruise/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/6.0.1/microsoft.aspnetcore.app.runtime.linux-x64.6.0.1.nupkg.sha512",
+    "/Users/seancruise/.nuget/packages/microsoft.netcore.app.crossgen2.osx-arm64/6.0.1/microsoft.netcore.app.crossgen2.osx-arm64.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
